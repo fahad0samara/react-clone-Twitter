@@ -3,6 +3,9 @@
 
 This project is a React-based clone of the popular social media platform Twitter. It aims to replicate the core features and user interface of Twitter, allowing users to post tweets, follow other users, like and retweet tweets, and explore trending topics.
 
+![Minimalist Neutral Multi Device Computer Mockup Website Launch Instagram Post (1)](https://github.com/fahad0samara/react-clone-Twitter/assets/90055525/aa0f9941-04d3-41e7-a52a-32ef3b4ca33e)
+
+
 ## Features
 
 - **Authentication**: Users can sign up, log in, and log out securely.
